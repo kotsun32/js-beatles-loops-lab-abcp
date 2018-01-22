@@ -29,5 +29,6 @@ function johnLennonFacts(facts) {
    var array = []
    do { 
      love.push("I love the Beatles!")
+     number++
    while 
  }
