@@ -32,6 +32,5 @@ function johnLennonFacts(facts) {
      number++
   } while 
   number(< 15)
-  
   return array
  }
